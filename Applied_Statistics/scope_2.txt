@@ -1,0 +1,4 @@
+Predicting the price hike for tomotos in the tamilnadu veg market
+
+The price of onion and tomotos is reaching its peak many times in an year, which is not affordable by poor peoples. 
+Hence have to predict the lack of supply over the  demand to better predict the price
