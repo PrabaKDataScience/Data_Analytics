@@ -4,6 +4,7 @@
 ##
 ## Add custom entries below here.
 .zip
+.csv
 ##
 dst-env/
 .cache/v/cache/lastfailed
